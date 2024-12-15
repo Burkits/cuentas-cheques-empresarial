@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5qfFsWEX7Sa" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Cuenta de Cheques Empresarial</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Cuenta_de_Cheques_Empresarial_ORG">
+    <organization identifier="Cuenta_de_Cheques_Empresarial_ORG">
+      <title>Cuenta de Cheques Empresarial</title>
+      <item identifier="Comercio_Exterior_SCO" isvisible="true" identifierref="__5qfFsWEX7Sa_RES">
+        <title>Cuenta de Cheques Empresarial</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5qfFsWEX7Sa_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_5hr9RpNfpHd_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_5sSItCP01Q1_video_5hr9RpNfpHd_19_56_1920x1080.jpg" />
+      <file href="mobile/641hs3RtItY.png" />
+      <file href="mobile/5fuudxRhUl5_M_140_140.png" />
+      <file href="mobile/6gJxiVMZeps.png" />
+      <file href="mobile/5kg70XDiN40.png" />
+      <file href="story_content/video_5xrV5WYBSry_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_6JH1HHfH5r1_video_5xrV5WYBSry_19_56_1920x1080.jpg" />
+      <file href="mobile/6PATZ0LWXhc_P_0_70_1988_1224.jpg" />
+      <file href="mobile/67FfFcwX9lT.png" />
+      <file href="mobile/67FfFcwX9lT_B40_RG.png" />
+      <file href="story_content/video_5qfxHFBsXlf_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_5bHgMqg5kjq_video_5qfxHFBsXlf_19_56_1920x1080.jpg" />
+      <file href="story_content/video_6QJHdyBOh3W_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_5cIy7Ho3ka9_video_6QJHdyBOh3W_19_56_1920x1080.jpg" />
+      <file href="story_content/5mLCCeW6L5f_44100_56_0.mp3" />
+      <file href="mobile/5fuudxRhUl5_M_142_142.png" />
+      <file href="story_content/5jz9ciL2Xzh_44100_56_0.mp3" />
+      <file href="story_content/video_6MJfIeYOUzR_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_6lX1hsqUahP_video_6MJfIeYOUzR_19_56_1920x1080.jpg" />
+      <file href="story_content/video_6A8Uu7wqow6_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_6DerTc6W8lV_video_6A8Uu7wqow6_19_56_1920x1080.jpg" />
+      <file href="story_content/video_5ujhaS8xdpT_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_5kz9x2M83BC_video_5ujhaS8xdpT_19_56_1920x1080.jpg" />
+      <file href="story_content/video_5inxD8mqtfm_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_5mS88vztliN_video_5inxD8mqtfm_19_56_1920x1080.jpg" />
+      <file href="story_content/video_5nuONZFlR7c_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_6BdWl1NN13l_video_5nuONZFlR7c_19_56_1920x1080.jpg" />
+      <file href="mobile/66yja5VGxRK.png" />
+      <file href="mobile/67bMN6nsbnL.png" />
+      <file href="mobile/5WLGq4ABpIQ.png" />
+      <file href="mobile/6bvCHySFcrA.png" />
+      <file href="mobile/6kQACnxCqbq_M_266_266.png" />
+      <file href="story_content/6k87TPT5ctE_44100_56_0.mp3" />
+      <file href="story_content/5excVwi5Eba_44100_56_0.mp3" />
+      <file href="story_content/5XwiFCU7HJn_44100_56_0.mp3" />
+      <file href="story_content/5fJNnNvNnQe_44100_56_0.mp3" />
+      <file href="story_content/5ZlHlIql9B6_44100_56_0.mp3" />
+      <file href="mobile/5tHdWSc65Jy.png" />
+      <file href="story_content/video_5rjI9ea34PY_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_5ktX6uLAVuE_video_5rjI9ea34PY_19_56_1920x1080.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape66beKWLRZwm.png" />
+      <file href="mobile/Shape5vScTpvPIuz.png" />
+      <file href="mobile/Shape5oZxD57OW1u.png" />
+      <file href="mobile/Shape6TxuYjgEU7N.png" />
+      <file href="mobile/Shape66Zxa9qrpLG.png" />
+      <file href="mobile/Shape6PfbYoM61Pp.png" />
+      <file href="mobile/Shape65VNUDnhVQw.png" />
+      <file href="mobile/Shape5rNk1l5T4VZ.png" />
+      <file href="mobile/Shape6V3DxlGBWZQ.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5a3ko6q0cE7.js" />
+      <file href="html5/data/js/5gT9JQrfl2U.js" />
+      <file href="html5/data/js/5oWwzPviVt3.js" />
+      <file href="html5/data/js/5pK6pYz7IrT.js" />
+      <file href="html5/data/js/5t8wZw53O4K.js" />
+      <file href="html5/data/js/5V4JnNfKSOI.js" />
+      <file href="html5/data/js/5w0yfounSIO.js" />
+      <file href="html5/data/js/5XVHiKn5Or7.js" />
+      <file href="html5/data/js/63slogvolGe.js" />
+      <file href="html5/data/js/65pfSZcT8UL.js" />
+      <file href="html5/data/js/6bFZUvRYy64.js" />
+      <file href="html5/data/js/6BMIVU3nbIw.js" />
+      <file href="html5/data/js/6bTJPgar2M2.js" />
+      <file href="html5/data/js/6C3STxxs5wd.js" />
+      <file href="html5/data/js/6G7vLhV3moC.js" />
+      <file href="html5/data/js/6hpXxwajvMz.js" />
+      <file href="html5/data/js/6kDykaFElND.js" />
+      <file href="html5/data/js/6Lki65jlrKy.js" />
+      <file href="html5/data/js/6O97cH0tjJG.js" />
+      <file href="html5/data/js/6oNbjL49B7M.js" />
+      <file href="html5/data/js/6R2ksNDOGIC.js" />
+      <file href="html5/data/js/6Z7XOumKLXP.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
